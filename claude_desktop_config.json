@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "romso-search": {
+      "command": "python",
+      "args": ["/path/to/romso/romso_mcp.py"]
+    }
+  }
+}
